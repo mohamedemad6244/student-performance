@@ -3,7 +3,7 @@
 This project analyzes Egyptian Students Performance data through a comprehensive data engineering pipeline.
 
 
-![Architecture](arch.jpg)
+![Architecture](src/screenshots/architecture.png)
 
 
 
