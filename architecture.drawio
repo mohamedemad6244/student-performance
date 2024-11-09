@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Page-1" id="bSJO7IP42XvlIdyvreHB">
+    <mxGraphModel dx="4040" dy="2183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;glass=0;shadow=0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="40" width="1550" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2016/04/kaggle-logo-transparent-300-600x273.png;" vertex="1" parent="1">
+          <mxGeometry x="510" y="189" width="373.63" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="130.75" width="265.13" height="353.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngrepo.com/png/303229/512/microsoft-sql-server-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="490" width="154" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1753" y="279" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.squarespace-cdn.com/content/v1/52d1b75de4b0ed895b7e7de9/1509730352343-HMB3OA93ZMNTLPKDTW9R/Azure+Data+Warehouse_COLOR.png;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="121" width="430" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2003" y="121" width="230" height="449" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-24" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" vertex="1" parent="1">
+          <mxGeometry x="2073" y="160" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-26" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Extract&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1782" y="359" width="140" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Staging&lt;br&gt;Area&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2048" y="396.5" width="140" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-28" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Transform&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2046" y="570" width="140" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-29" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Load&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="359" width="140" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="910" y="130.75" width="340" height="262.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-37" value="" style="group" vertex="1" connectable="0" parent="IU2WHY-U1t9BGz3VcyOz-38">
+          <mxGeometry y="17.201309328968904" width="339.99999999999994" height="245.54869067103107" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="IU2WHY-U1t9BGz3VcyOz-37">
+          <mxGeometry y="125.13952536824877" width="339.99999999999994" height="120.40916530278231" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://creazilla-store.fra1.digitaloceanspaces.com/icons/3238261/file-csv-icon-md.png;" vertex="1" parent="IU2WHY-U1t9BGz3VcyOz-37">
+          <mxGeometry x="53.629999999999995" y="-23.521309328968904" width="197.81505728314238" height="197.81505728314238" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png;" vertex="1" parent="1">
+          <mxGeometry x="2063" y="263.25" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-40" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="279" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IU2WHY-U1t9BGz3VcyOz-8" target="IU2WHY-U1t9BGz3VcyOz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IU2WHY-U1t9BGz3VcyOz-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thedataengineer.blog/assets/img/posts/ssislogo.png;" vertex="1" parent="1">
+          <mxGeometry x="870" y="300" width="400" height="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
